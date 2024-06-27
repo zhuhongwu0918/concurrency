@@ -1,8 +1,0 @@
-/home/abc/github/zhhwconcurrency/concurrency/simple_cmake_example/build/CMakeFiles/rebuild_cache.dir
-/home/abc/github/zhhwconcurrency/concurrency/simple_cmake_example/build/CMakeFiles/edit_cache.dir
-/home/abc/github/zhhwconcurrency/concurrency/simple_cmake_example/build/src/CMakeFiles/rebuild_cache.dir
-/home/abc/github/zhhwconcurrency/concurrency/simple_cmake_example/build/src/CMakeFiles/edit_cache.dir
-/home/abc/github/zhhwconcurrency/concurrency/simple_cmake_example/build/include/CMakeFiles/rebuild_cache.dir
-/home/abc/github/zhhwconcurrency/concurrency/simple_cmake_example/build/include/CMakeFiles/edit_cache.dir
-/home/abc/github/zhhwconcurrency/concurrency/simple_cmake_example/build/example/CMakeFiles/rebuild_cache.dir
-/home/abc/github/zhhwconcurrency/concurrency/simple_cmake_example/build/example/CMakeFiles/edit_cache.dir
