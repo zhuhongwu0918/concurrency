@@ -1,6 +1,6 @@
 #include<iostream>
-
+#include "simplecmake/printhello.h"
 int main(){
-    std::cout << "Hello World!" << std::endl;
+    printhello();
     return 0;
 }
